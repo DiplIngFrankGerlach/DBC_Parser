@@ -5,3 +5,7 @@ Unix utilies such as grep can be used to filter the output.
 
 Author: Frank Gerlach (frankgerlach.tai@gmx.de, https://di-fg.de)
 
+Dipl. Ing. Frank Gerlach
+Kirchstrasse 11 
+74336 Brackenheim
+
