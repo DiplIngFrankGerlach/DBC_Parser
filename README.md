@@ -1,4 +1,4 @@
-A CAN Database (DBC) Parser.
+# A CAN Database (DBC) Parser.
 
 Command line program for windows to parse Vector CANoe DBC files and print them to STDOUT. 
 Unix utilies such as grep can be used to filter the output.
